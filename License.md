@@ -6,7 +6,7 @@ AI Gallery images are made to be used freely. Our license reflects that.
 2. Commercial and non-commercial purposes.
 3. No permission needed (though attribution is appreciated!).
 
-What is not permitted
+What is not permitted:
 1. Images cannot be sold without significant modification.
 2. Compiling images from AI Gallery to replicate a similar or competing service.
 
